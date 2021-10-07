@@ -34,7 +34,7 @@ Start-Up Nation est un service en ligne qui met chaque semaine en avant les star
   - Étudiez les polices et couleurs utilisées sur la maquette mobile pour concevoir la version desktop de la façon la plus respectueuse possible de la charte graphique et de l'esprit de la version mobile
   - Créez sous Adobe Illustrator ou Adobe XD un pictogramme représentant l'idée de prise de contact (une enveloppe, un téléphone, un répertoire de contact, un avion en papier, etc. au choix)
   - Intégrez votre pictogramme aux versions mobiles et desktop sous photoshop : vous êtes libres de juger de la position la plus adéquate pour le bouton (sur les versions desktop et mobile)
-- Pour la version mobile, il n'y a pas d'effet sur les liens du menu, pour la version desktop, à l'état normal il n'ont pas de bordure, mais au survol, ils auront en css la propriété `border-top : 2px solid #90AFC5 : faites apparaître cette bordure au-dessus de l'un des items du menu de la version desktop de votre maquette
+- Pour la version mobile, il n'y a pas d'effet sur les liens du menu, pour la version desktop, à l'état normal il n'ont pas de bordure, mais au survol, ils auront en css la propriété `border-top : 2px solid #90AFC5` : faites apparaître cette bordure au-dessus de l'un des items du menu de la version desktop de votre maquette
 - Optimisez le poids et la qualité des images
 
 ### Partie Intégration
@@ -42,7 +42,7 @@ Start-Up Nation est un service en ligne qui met chaque semaine en avant les star
 - Réalisez l'intégration HTML/CSS sur la base du fichier `index.html` fourni
 - Pour la version desktop, les liens du menu doivent prendre, au survol, la propriété css suivante : `border-top : 2px solid #90AFC5`
 - Placez le pictogramme `contact` comme prévu sur vos maquettes : au survol doit apparaître le texte `Un retour d'expérience ? Contactez-nous !`
-- L'intégration doit être responsive : le point de rupture est à `520px
+- L'intégration doit être responsive : le point de rupture est à `520px`
 - Vous pouvez, si vous le souhaiter utiliser le menu rétractable fourni (attention, n'oubliez pas de le personnaliser pour qu'il s'intègre et respecte la charte graphique)
 - Vous pouvez aussi, si vous le souhaitez, utiliser un framework responsive de votre choix
 - Optimisez la page web pour les navigateurs Chrome et Firefox
