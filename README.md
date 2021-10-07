@@ -10,16 +10,16 @@ Start-Up Nation est un service en ligne qui met chaque semaine en avant les star
 
 ## Éléments à votre disposition :
 
-- un fichier `startup_mobile.psd` : la maquette de la version mobile, de 480px de largeur
-- un fichier « index.html » : une ébauche de la page HTML
-- un répertoire « images » : contient les illustrations dont vous avez besoin
-- un répertoire « polices » : contient les polices « Open Sans » et « Proza Libre »
-- un répertoire « menu » contenant un exemple de menu
+- un fichier `startup_mobile.psd` : la maquette de la version mobile, de `480px` de largeur
+- un fichier `index.html` : une ébauche de la page HTML
+- un répertoire `images` : contient les illustrations dont vous avez besoin
+- un répertoire `polices` : contient les polices `Open Sans` et `Proza Libre`
+- un répertoire `menu` contenant un exemple de menu
 - une palette de couleur :
-  - White : #ffffff
-  - Mist : #90AFC5
-  - Stone : #336B87
-  - Shadow : #2A3132
+  - White : `#ffffff`
+  - Mist : `#90AFC5`
+  - Stone : `#336B87`
+  - Shadow : `#2A3132`
 
 > :warning: Ce qui n'est pas prescrit dans les consignes qui suivent est laissé à votre appréciation, mais attention à toujours rester cohérent par rapport à la charte graphique, et à privilégier la lisibilité et l'accessibilité.
 
